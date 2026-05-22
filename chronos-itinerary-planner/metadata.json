@@ -1,0 +1,6 @@
+{
+  "name": "Chronos Itinerary Planner",
+  "description": "An interactive timeline itinerary planner featuring time calculation, duration lock, modular template toolbox, and Word export/import integrations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
